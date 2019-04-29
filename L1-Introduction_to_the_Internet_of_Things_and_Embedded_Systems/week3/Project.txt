@@ -1,0 +1,12 @@
+Research two microcontrollers and provide information about them from their datasheets. Research the Arduino and Raspberry Pi platforms to determine if there are operating systems which can be used on each platform. If there are, list those operating systems and state whether they are open source or not.
+
+instructions:
+	1. Research two microcontrollers and provide information about them from their datasheets. There are several microcontroller manufacturers which you can investigate including Atmel, Microchip, Freescale, TI, etc. For each microcontroller, report the following information. (Be sure to include a link to an online reference where you found this information.)
+
+		Clock frequency
+		Bitwidth of the datapath
+		Size of Flash memory
+		Number of pins
+		Does the microcontroller contain an Analog-to-Digital Converter? If so, how many bits of precision does it have?
+
+	2. Research the Arduino and Raspberry Pi platforms to determine if there are operating systems which can be used on each platform. If there are, list those operating systems and state whether they are open source or not.

@@ -1,0 +1,40 @@
+1. Nokia 3310 inputs: 
+	number buttons to make phone-calls or send out messages.
+	direction buttons to select contact person or sending text messages.
+	pick up button: pick up phone-calls; hang up button: hang up phone-calls.
+	mini-microphone: to receive sounds from the call environments
+	Nokia 3310 outputs:
+	screen: display contact-list, incoming calls, edit text messages.
+	earpiece: display sounds to listeners.
+2. CD-player inputs:
+	disk slot: put in CDs
+	pause / play / stop / up and down button: to Pause / play or continue / stop / switch songs or musics.
+	CD-player outputs:
+	tiny screen showing music playing at the time and show music informations and details.
+	speakers: display sound informations received from the CD
+
+
+
+-Visual - describing data carried by visible light
+
+-Audio - describing data carried by sound
+
+-Tactile - describing data carried by touch
+
+-Electronic - describing data encoded in electrical signals
+
+According to the answer from last question:
+	1.  nokia 3310 inputs: 
+		buttons -> Tactile
+		buttons again -> Tactile
+		more buttons -> Tactile
+		mini-microphone -> Audio
+		Nokia 3310 outputs
+		screen -> Visual
+		earpiece -> Audio
+	2. CD-player inputs:
+		disk slot -> Electronic
+		even more buttons -> Tactile
+		CD-player outputs:
+		screen -> Visual
+		speaker -> Audio

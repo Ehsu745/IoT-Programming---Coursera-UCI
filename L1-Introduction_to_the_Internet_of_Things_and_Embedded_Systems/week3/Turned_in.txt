@@ -1,0 +1,31 @@
+1. AT89S51:
+	Clock frequency: Fully Static Operation: 0 Hz to 33 MHz
+	Bitwidth of the datapath: 8-bit
+	Size of Flash memory: 4K Bytes of In-System Programmable (ISP) Flash Memory
+	Number of pins: PDIP:40 PLCC:44 TQFP:44
+	Does the microcontroller contain an Analog-to-Digital Converter? If so, how many bits of precision does it have?: No
+	
+	link: https://www.keil.com/dd/docs/datashts/atmel/at89s51_ds.pdf
+
+2. ARM
+	Clock frequency: Single Cycle Access at Up to 30 MHz in Worst Case Conditions
+	Bitwidth of the datapath: 32-bit
+	Size of Flash memory: 512 Kbytes (SAM7X512) 
+	Number of pins: 100
+	Does the microcontroller contain an Analog-to-Digital Converter? If so, how many bits of precision does it have?: Yes, 10-bit.
+
+	links: http://ww1.microchip.com/downloads/en/devicedoc/Atmel_32-bit-ARM7TDMI-Flash-Microcontroller_SAM7X512-256-128_Datasheet.pdf
+https://www.electronicwings.com/arm7/lpc2148-adc-analog-to-digital-converter
+
+
+
+Indicate if there are operating systems which can be used on each platform. If there are, list those operating systems
+State whether the operating systems are open source or not.
+
+Question 1:
+	Arduino: No(firmware)
+	RaspberryPi: Yes, NOOBS and Raspbian
+
+Question 2:
+	Arduino: Arduino is an open-source hardware and software company, project and user community that designs and manufactures single-board microcontrollers and microcontroller kits for building digital devices and interactive objects that can sense and control both physically and digitally.
+	RaspberryPi: It is, it runs Linux (a variety of distributions), and its main supported operating system, Raspbian, is open source and runs a suite of open source software.

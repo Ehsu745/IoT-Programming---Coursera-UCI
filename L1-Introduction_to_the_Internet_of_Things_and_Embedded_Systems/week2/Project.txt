@@ -1,0 +1,16 @@
+Embedded systems are computer-based systems defined by their simple interface. Identify 2 systems on the market & analyze their interfaces. Describe all inputs to & outputs from each system. Classify inputs & outputs based on their mode of interaction: Visual: data carried by visible light; Audio: data carried by sound; Tactile: data carried by touch: Electronic: data encoded in electrical signal
+
+instructionss:
+	Identify two embedded systems which are sold on the market today and analyze their interfaces.
+
+	Describe all inputs to each system and outputs from each system.
+
+	Classify the inputs and outputs based on their mode of interaction:
+
+	- Visual - describing data carried by visible light
+
+	- Audio - describing data carried by sound
+
+	- Tactile - describing data carried by touch
+
+	- Electronic - describing data encoded in electrical signals
